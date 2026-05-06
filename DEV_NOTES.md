@@ -11,3 +11,8 @@ Personal development log — notes, findings, and ongoing work.
 - Reorganised test fixtures
 - Addressed feedback from self code review
 - Reviewed security headers configuration
+
+## 2026-05-06
+- Added type hints to helper functions
+- Tidied up project structure
+- Added CONTRIBUTING.md stub
