@@ -16,3 +16,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added type hints to helper functions
 - Tidied up project structure
 - Added CONTRIBUTING.md stub
+
+## 2026-05-06
+- Added .editorconfig for consistent formatting
+- Checked for memory leaks in long-running path
