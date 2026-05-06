@@ -20,3 +20,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-06
 - Added .editorconfig for consistent formatting
 - Checked for memory leaks in long-running path
+
+## 2026-05-06
+- Fixed minor edge case in input handling
+- Wrote notes on upcoming feature design
+- Tidied up project structure
